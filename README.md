@@ -16,6 +16,8 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ![10 Days of JavaScript](/Badges/10_days_of_javascript_5_star.png)
 ![30 Days of Code](/Badges/30_days_of_code_5_star.png)
+![Problem Solving](/Badges/problem_solving.svg)
+
 
 ## HackerRank Certificates
 
