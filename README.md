@@ -10,7 +10,7 @@ This repository consists of solutions to HackerRank **practice**, **tutorials**,
 
 ## Personal HackerRank Profile
 
-[View Profile](https://www.hackerrank.com/nathanabela7)
+[View Profile](https://www.hackerrank.com/mohammadshehadeh)
 
 ## HackerRank Badges
 
